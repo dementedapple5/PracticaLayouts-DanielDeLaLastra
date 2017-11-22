@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_size">16sp</dimen>
+    <dimen name="default_layout_spaces">8dp</dimen>
+    <dimen name="multiline_height">300dp</dimen>
+    <dimen name="et_width">100dp</dimen>
+    <dimen name="margin_default">16dp</dimen>
+</resources>

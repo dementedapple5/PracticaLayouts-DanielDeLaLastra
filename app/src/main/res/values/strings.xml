@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PracticaLayouts</string>
+    <string name="linear_title">Linear Layout</string>
+    <string name="relative_title">Relative Layout</string>
+    <string name="constraint_title">Constraint Layout</string>
+    <string name="nameTv">Name</string>
+    <string name="btnFirst">First</string>
+    <string name="btnSecond">Second</string>
+    <string name="btnThird">Third</string>
+    <string name="infoTv">Information</string>
+    <string name="previus">previus</string>
+    <string name="next">next</string>
+</resources>

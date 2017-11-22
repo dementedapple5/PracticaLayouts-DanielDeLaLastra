@@ -54,6 +54,7 @@
     <TextView
         android:id="@+id/button2"
         android:layout_width="0dp"
+
         android:layout_height="wrap_content"
         android:layout_marginEnd="@dimen/default_layout_spaces"
         android:layout_marginStart="@dimen/default_layout_spaces"
